@@ -16,16 +16,9 @@ This system uses data analysis and machine learning models to identify suspiciou
 - Jupyter Notebook
 
 
-## 📂 Project Structure
+## Project Structure
 
-
-Fraud-Detection/
-│── data/                # Dataset files
-│── notebooks/           # Jupyter notebooks
-│── src/                 # Source code files
-│── models/              # Trained models (if any)
-│── requirements.txt     # Required Python libraries
-│── README.md            # Project documentation
+The Fraud-Detection project is organized for clarity and ease of use. The data/ folder contains dataset files, while notebooks/ holds Jupyter notebooks for analysis and experimentation. All reusable code resides in src/, and trained models are saved in models/. The requirements.txt lists all dependencies, and README.md provides an overview, setup instructions, and usage details. This structure keeps the project clean, modular, and easy to navigate.
 
 
 ## 📊 Dataset
